@@ -6,6 +6,8 @@ public class DefaultPageController {
 	
 	public void getDefaultPage() {
 		DefaultPageService.getDefaultPage();
+		System.out.print("dsddssd");
+		//goto:Statement1;
 	}
 
 }
